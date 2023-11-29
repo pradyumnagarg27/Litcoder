@@ -1,17 +1,17 @@
-Problem Statement
-Add 2 numbers
+# Problem Statement
+## Add 2 numbers
 A practice lab to add two numbers and print output results. The hint provides the answer. Try entering input values and checking the output.
 
-Exercise-1
-input:
+## Exercise-1
+### Input:
 4
 5
-output:
+### Output:
 9
 
-Exercise-2
-input:
+## Exercise-2
+### Input:
 7
 -3
-output:
+### Output:
 4
